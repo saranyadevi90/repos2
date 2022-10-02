@@ -1,1 +1,2 @@
 b1 message
+new message in file1
