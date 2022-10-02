@@ -1,2 +1,3 @@
 b2 message
 new message in file2
+welcome to vs code
