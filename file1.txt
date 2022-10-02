@@ -1,2 +1,2 @@
 b1 message
-new message in file1
+second message to change
